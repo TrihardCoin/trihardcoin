@@ -1,0 +1,9 @@
+Building Trihardcoin
+
+See doc/readme-qt.rst for instructions on building Trihardcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trihardcoin.
+
+See doc/build-*.txt for instructions on building trihardcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trihardcoin.
